@@ -1,63 +1,17 @@
-# Jekyll Incorporated
-Modern Jekyll based blog. Great for companies, products or anything. See live at [blog.sendtoinc.com](http://blog.sendtoinc.com)
+# Skinny Bones Jekyll Starter
 
-## Installation & Usage
-    bundle install
-    jekyll serve --watch
+Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
 
-_Note: Requires Ruby version 1.9.3 =>. For example use [rbenv](https://github.com/sstephenson/rbenv)_   
-    
-## Configuration
-Edit: _config.yml (general options), main.css (theme colors &amp; fonts)
+I'm currently using a variation of it on my personal website [Made Mistakes](http://mademistakes.com) with some modifications. To learn more about how to use the theme and install it check out the [Skinny Bones demo](http://mmistakes.github.io/skinny-bones-jekyll/) (*work in progress*).
 
-```
-jekyll-incorporated/
-├── _config.yml
-├── _assets/
-    ├── stylesheets/
-        ├── main.scss
-```
+![screenshot of Skinny Bones](http://mmistakes.github.io/skinny-bones-jekyll/images/skinny-bones-theme-feature.jpg)
 
-_Note: when editing _config.yml, you need to restart jekyll to see the changes.__
+---
 
-    
-## Publish to Github Pages
-1. Add your domain to _CNAME_
-2. Edit your repo address at _Rakefile_
-    
-Run rake task. **NOTE: It will deploy the generated site to _gh-pages_ branch overwriting it**    
-``` 
-rake site:publish
-```
+## Notable Features
 
-## Usage examples
-
-* Adroll Engineering http://tech.adroll.com/
-* Brace.io blog http://blog.brace.io/
-* Spark.io blog http://blog.spark.io/
-* Department of Better Technology http://blog.dobt.co/
-
-## Authors
-
-Originally build for [sendtoinc.com](https://sendtoinc.com), your workspace for sharing and organizing knowledge
-
-**Karri Saarinen**
-
-+ [http://twitter.com/karrisaarinen](http://twitter.com/karrisaarinen)
-+ [http://github.com/ksaa](http://github.com/ksaa)
-
-**Jori Lallo**
-
-+ [http://twitter.com/jorilallo](http://twitter.com/jorilallo)
-+ [http://github.com/jorde](http://github.com/jorilallo)
-
-## Todo:
-
-+ Documentation
-+ Less config files
-+ Better deploy scripts
-
-## Copyright and license
-
-Copyright 2013 Kippt Inc. under [The MIT License ](LICENSE)
-
+* Jekyll 3.x and GitHub Pages compatible.
+* Stylesheet built using Sass.
+* Data files for easier customization of the site navigation/footer and for supporting multiple authors.
+* Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
+* And more.

@@ -1,9 +1,7 @@
-source 'https://rubygems.org'
+# Skinny Bones Gemfile
+source "https://rubygems.org"
 
-gem 'jekyll'
-gem 'jekyll-assets'
-gem 'maruku'
-gem 'rake'
-gem 'sass'
-gem 'uglifier'
-gem 'github-pages'
+gem "jekyll", "~> 3.0"
+gem "jekyll-sitemap"
+gem "jekyll-gist"
+gem "octopress", "~> 3.0"
