@@ -1,0 +1,8 @@
+---
+layout: default
+img: umass.jpg
+category: Officers
+title: Joshua Darling
+description: Business Guy
+---
+ Isenburg School of Management Senior

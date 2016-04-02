@@ -1,0 +1,8 @@
+---
+layout: default
+img: umass.jpg
+category: Officers
+title: Ryan Lagasse
+description: |
+---
+ ECE Freshman

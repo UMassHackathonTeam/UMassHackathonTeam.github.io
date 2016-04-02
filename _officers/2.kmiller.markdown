@@ -1,0 +1,8 @@
+---
+layout: default
+img: umass.jpg
+category: Officers
+title: Keith Miller
+description: Hacker Extrordinaire
+---
+ ECE Junior
