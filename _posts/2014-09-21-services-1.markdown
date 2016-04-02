@@ -1,6 +1,6 @@
 ---
 layout: default
-img: https://upload.wikimedia.org/wikipedia/commons/d/d6/Coolidge_Hall_and_Kennedy_Hall,_UMass_Amherst,_Amherst_MA.jpg
+img: umass.png
 category: Projects
 title: UMass Amherst
 description: |
