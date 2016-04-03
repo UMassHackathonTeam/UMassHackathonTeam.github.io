@@ -1,8 +1,0 @@
----
-layout: default
-img: keith.jpg
-category: projects
-title: Our fearless leader
-description: |
----
-  The man.  The myth.  The legend.  KEITH MIIIIIIILER
