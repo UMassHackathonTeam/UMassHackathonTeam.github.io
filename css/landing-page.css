@@ -21,6 +21,10 @@ h6 {
     font-weight: 700;
 }
 
+section#info h2 {
+    margin: 2em 0 1em;
+}
+
 section#info p {
     text-align: justify;
     font-size: 18px;
