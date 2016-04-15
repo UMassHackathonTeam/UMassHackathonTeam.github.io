@@ -25,6 +25,7 @@ section#info p {
     text-align: justify;
     font-size: 18px;
     font-weight: 400;
+    margin-bottom: 2em;
 }
 
 .lead {
