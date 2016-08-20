@@ -3,7 +3,7 @@ layout: default
 img: shell_scribe.png
 category: Projects
 title: ShellScribe
-concepts: 
+tags: 
 - Shell
 - Scribe
 description: |

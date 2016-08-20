@@ -21,8 +21,8 @@
                     <h2 class="section-heading">{{ post.title }}</h2>
                     <h3>Concepts</h3>
                     <ul>
-                    {% for key in post.concepts %}
-                        <li>{{ key }}</li>
+                    {% for tag in post.tags %}
+                        <li>{{ tag }}</li>
                     {% endfor %}
                     </ul>
                     <hr class="section-heading-spacer">
