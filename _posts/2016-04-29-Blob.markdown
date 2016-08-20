@@ -1,0 +1,12 @@
+---
+layout: default
+img: umass.jpg
+category: Projects
+title: "The Blob"
+tags:
+- Multiplayer game
+- Mostly original frontend
+- Built-from-scratch backend
+description: |
+---
+ We here at the UMass Hackathon team love games!  At this hackathon we made a multiplayer horror game called The Blob using PyGame for our engine's framework.  Other than PyGame and Python's microframework Flask, no other framework was used; the frontend utilized a couple functions in PyGame and developed an almost fully working game engine, while the backend developed a working synchronous multiplayer component using Flask.  The project was expanded to also allow users to control their character with a Myo armband, and, to give that homemade feel, sprites were created for each member of the team to be used.  
