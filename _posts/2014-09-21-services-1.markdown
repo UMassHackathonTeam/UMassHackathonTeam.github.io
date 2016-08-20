@@ -2,7 +2,7 @@
 layout: default
 img: umass.jpg
 category: Projects
-title: UMass Amherst
+title: Riemann Skittle Counting
 description: |
 ---
- It's a college.  In Amherst.  Yeup.
+ This project involved developing an algorithm that was able to determine approximately how many Skittles there were in an enclosed container.  The idea involved volume-centric calculations, and could be expanded to other containers/objects.
