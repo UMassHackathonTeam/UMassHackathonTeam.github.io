@@ -1,0 +1,13 @@
+/* 
+All custom CSS will be loaded AFTER Bootstrap.
+
+Use !important sparingly!
+*/
+
+.dark-banner{
+	background-color: #333;
+}
+
+.dark-banner h1,h2,h3,h4,h5,h6,p,li{
+	color:#333;
+}
