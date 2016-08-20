@@ -1,0 +1,8 @@
+---
+layout: default
+img: masshelp.png
+category: Services
+title: MassHelp
+description: |
+---
+This web app brings multiple government services to a user's fingertips without the difficulties of a .gov site.  Our targeted user base are the less fortunate and those looking for low-cost services such as medicare, dental, pro bono legal services, etc.  We first ask what kinds of services a person is looking for, then our back-end web scraper goes and finds what fields would be needed to fill out an application (e.g. when looking for dental services many places will ask for basic identity information, insurance, etc.).  From this, our front end dynamically builds a form with all the fields needed for most service providers in the area.  Upon completion, the information is distributed to the service providers' sites, and their forms are auto-filled for the user.  This app makes requesting crucial services much easier and faster for those that do not have the time or resources to jump from site to site filling out identical forms.
