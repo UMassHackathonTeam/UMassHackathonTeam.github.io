@@ -1,5 +1,7 @@
 <section id="officers">
-
+{% for officer in site.officers %}
+<p>{{ officer.title }}</p>
+{% endfor %}
 </section>
 
 <section id="posts">
