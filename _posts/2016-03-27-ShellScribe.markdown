@@ -3,6 +3,7 @@ layout: default
 img: shell_scribe.png
 category: Projects
 title: ShellScribe
+hackathon: Hawkathon (2016)
 tags: 
 - Auto-documenter
 - Developer Tool

@@ -3,6 +3,7 @@ layout: default
 img: umass.jpg
 category: Projects
 title: "The Blob"
+hackathon: BCCHacks (2016)
 tags:
 - Multiplayer game
 - Mostly original frontend

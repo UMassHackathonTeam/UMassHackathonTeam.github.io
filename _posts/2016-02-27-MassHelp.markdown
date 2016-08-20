@@ -3,6 +3,7 @@ layout: default
 img: masshelp.png
 category: Services
 title: MassHelp
+hackathon: HampHacks (2016)
 tags:
 - Scrapy
 - Web App
