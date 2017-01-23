@@ -1,9 +1,0 @@
----
-layout: default
-img: umass.jpg
-category: Officers
-title: Jake Spinney
-description: Head of the UHT
----
- ECE Senior
- Likes piña coladas and long walks on the beach.
